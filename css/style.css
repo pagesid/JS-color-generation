@@ -30,6 +30,11 @@ body {
 	cursor: pointer;
 }
 
+.col h2:active {
+	background: rgba(0, 0, 0, 0.384);
+	cursor: pointer;
+}
+
 .col button {
 	outline: none;
 	border: none;
